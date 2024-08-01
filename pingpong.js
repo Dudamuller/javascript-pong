@@ -54,4 +54,4 @@ function criaRaquete(xRaquete, yRaquete, larguraRaquete, alturaRaquete){
     fill("blue");
     rect(xRaque.te, yRaquete, larguraRaquete, alturaRaquete);
 }
-js
+//jajajjaja
